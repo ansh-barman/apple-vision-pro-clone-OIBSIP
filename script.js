@@ -428,31 +428,31 @@ render();
 
 function files(index) {
 var data = `
-../assets/applevisioncanvas/Vision00001.png
-../assets/applevisioncanvas/Vision00002.png
-../assets/applevisioncanvas/Vision00003.png
-../assets/applevisioncanvas/Vision00004.png
-../assets/applevisioncanvas/Vision00005.png
-../assets/applevisioncanvas/Vision00006.png
-../assets/applevisioncanvas/Vision00007.png
-../assets/applevisioncanvas/Vision00008.png
-../assets/applevisioncanvas/Vision00009.png
-../assets/applevisioncanvas/Vision00010.png
-../assets/applevisioncanvas/Vision00011.png
-../assets/applevisioncanvas/Vision00012.png
-../assets/applevisioncanvas/Vision00013.png
-../assets/applevisioncanvas/Vision00014.png
-../assets/applevisioncanvas/Vision00015.png
-../assets/applevisioncanvas/Vision00016.png
-../assets/applevisioncanvas/Vision00017.png
-../assets/applevisioncanvas/Vision00018.png
-../assets/applevisioncanvas/Vision00019.png
-../assets/applevisioncanvas/Vision00020.png
-../assets/applevisioncanvas/Vision00021.png
-../assets/applevisioncanvas/Vision00022.png
-../assets/applevisioncanvas/Vision00023.png
-../assets/applevisioncanvas/Vision00024.png
-../assets/applevisioncanvas/Vision00025.png
+.//assets/applevisioncanvas/Vision00001.png
+.//assets/applevisioncanvas/Vision00002.png
+.//assets/applevisioncanvas/Vision00003.png
+.//assets/applevisioncanvas/Vision00004.png
+.//assets/applevisioncanvas/Vision00005.png
+.//assets/applevisioncanvas/Vision00006.png
+.//assets/applevisioncanvas/Vision00007.png
+.//assets/applevisioncanvas/Vision00008.png
+.//assets/applevisioncanvas/Vision00009.png
+.//assets/applevisioncanvas/Vision00010.png
+.//assets/applevisioncanvas/Vision00011.png
+.//assets/applevisioncanvas/Vision00012.png
+.//assets/applevisioncanvas/Vision00013.png
+.//assets/applevisioncanvas/Vision00014.png
+.//assets/applevisioncanvas/Vision00015.png
+.//assets/applevisioncanvas/Vision00016.png
+.//assets/applevisioncanvas/Vision00017.png
+.//assets/applevisioncanvas/Vision00018.png
+.//assets/applevisioncanvas/Vision00019.png
+.//assets/applevisioncanvas/Vision00020.png
+.//assets/applevisioncanvas/Vision00021.png
+.//assets/applevisioncanvas/Vision00022.png
+.//assets/applevisioncanvas/Vision00023.png
+.//assets/applevisioncanvas/Vision00024.png
+.//assets/applevisioncanvas/Vision00025.png
 `;
 return data.split("\n")[index];
 }
